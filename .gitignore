@@ -1,0 +1,9 @@
+.openai/
+.sites-runtime/
+.sites-checkout/
+.playwright-mcp/
+node_modules/
+site.zip
+*.log
+.env
+.env.*
